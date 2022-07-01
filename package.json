@@ -1,6 +1,6 @@
 {
   "name": "@morozartem/meteor-desktop",
-  "version": "1.5.0",
+  "version": "2.5.0",
   "bin": {
     "meteor-desktop": "dist/bin/cli.js"
   },
@@ -87,6 +87,7 @@
     "md5": "2.2.1",
     "mksnapshot": "0.3.5",
     "node-fetch": "2.2.0",
+    "np": "^7.6.2",
     "regenerator-runtime": "0.12.1",
     "rimraf": "3.0.0",
     "semver": "5.5.1",
